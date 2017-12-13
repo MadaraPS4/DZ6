@@ -1,0 +1,8 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\bin\Debug\Консоль.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\bin\Debug\Консоль.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\bin\Debug\Консоль.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\bin\Debug\ClassLibrary1.dll
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\bin\Debug\ClassLibrary1.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\obj\Debug\Консоль.csprojResolveAssemblyReference.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\obj\Debug\Консоль.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 6\Консоль\obj\Debug\Консоль.pdb
